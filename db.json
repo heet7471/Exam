@@ -1,0 +1,67 @@
+{
+  "students": [
+    {
+      "id": "2",
+      "name": "priyank",
+      "roll": 102,
+      "class": "10B",
+      "school": "Greenwood High"
+    },
+    {
+      "id": "3",
+      "name": "rutul",
+      "roll": 103,
+      "class": "10A",
+      "school": "devine"
+    },
+    {
+      "id": "b484",
+      "name": "heet",
+      "roll": 33,
+      "class": "7",
+      "school": "divine"
+    },
+    {
+      "id": "0ab9",
+      "name": "nayan",
+      "roll": 18,
+      "class": "10A",
+      "school": "seven day"
+    },
+    {
+      "id": "1a09",
+      "name": "urvish",
+      "roll": 12,
+      "class": "10A",
+      "school": "RnW"
+    },
+    {
+      "id": "75c7",
+      "name": "dasrath",
+      "roll": 88,
+      "class": "10",
+      "school": "RnW"
+    },
+    {
+      "id": "a6c9",
+      "name": "vraj",
+      "roll": 77,
+      "class": "10",
+      "school": "RnW"
+    },
+    {
+      "id": "c6d5",
+      "name": "santosh",
+      "roll": 62,
+      "class": "10",
+      "school": "RnW"
+    },
+    {
+      "id": "be32",
+      "name": "meet",
+      "roll": 22,
+      "class": "10",
+      "school": "RnW"
+    }
+  ]
+}
